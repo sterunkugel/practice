@@ -5,4 +5,5 @@ public class Hero {
 	int hp;			// HPの宣言
 	public void attack() {}
 	public void run() {}
+	public void sleep() {}
 }
